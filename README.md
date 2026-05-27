@@ -40,8 +40,6 @@ The project demonstrates practical implementation of data analysis concepts such
 │
 <<<<<<< HEAD
 |__.ipynb_checkpoints           # Checkpoints
-=======
->>>>>>> a1b62dba5e90d1efa23dde2debcab23dabaa38d7
 ├── Weather analysis.ipynb     # Main Python file
 ├── weather Data.csv          # Dataset file
 └── README.md                # Project documentation
