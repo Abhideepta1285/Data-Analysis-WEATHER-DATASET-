@@ -37,8 +37,7 @@ The project demonstrates practical implementation of data analysis concepts such
 
 ```bash
   WEATHER ANALYSIS PROJECT/
-│
-<<<<<<< HEAD
+
 |__.ipynb_checkpoints           # Checkpoints
 ├── Weather analysis.ipynb     # Main Python file
 ├── weather Data.csv          # Dataset file
